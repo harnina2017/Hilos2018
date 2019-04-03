@@ -6,6 +6,7 @@ public class Fuente extends Thread {
 	private boolean seguir=true;
 	private int total=0;
 	int cuatro;
+	int cinco;
 
 	public int getVida() {
 		return alimento;
